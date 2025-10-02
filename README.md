@@ -1,4 +1,4 @@
-CS 4361 Computer Graphics
+# CS 4361 Computer Graphics
 
 Exercise 1.6 – Java Graphics Program
 📖 Description

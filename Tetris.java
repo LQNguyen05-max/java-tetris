@@ -23,7 +23,7 @@ public class Tetris extends JPanel implements ActionListener {
     public static final int CELL_SIZE = 30;
     public static final int COLUMNS = 10;
     public static final int ROWS = 20;
-    public Color[][] board = new Color[ROWS][COLUMNS];https://github.com/LQNguyen05-max/java-tetris.git
+    public Color[][] board = new Color[ROWS][COLUMNS];
 
     // Playback timer
     public Timer timer;
